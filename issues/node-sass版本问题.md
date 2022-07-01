@@ -13,7 +13,7 @@
 ![img](../image/3.png)
 
 例如：
-node版本@16.14.2==>sass-loader@7.0.3==>node.sass@6.0.1
+node版本@16.14.2==>sass-loader@7.0.3==>node-sass@6.0.1
 
 如果node不是最新版本，则需要安装对应的版本号才行
 npm install sass-loader@版本号 node-sass@版本号 --save-dev //安装对应的版本
